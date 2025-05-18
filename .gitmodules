@@ -1,3 +1,6 @@
 [submodule "bopscrk"]
 	path = bopscrk
 	url = https://github.com/r3nt0n/bopscrk
+[submodule "CeWL"]
+	path = CeWL
+	url = https://github.com/digininja/CeWL.git
