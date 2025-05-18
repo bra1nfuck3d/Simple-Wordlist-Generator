@@ -1,0 +1,3 @@
+[submodule "bopscrk"]
+	path = bopscrk
+	url = https://github.com/r3nt0n/bopscrk
